@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tejasenerrgy.in/sitemap.xml
